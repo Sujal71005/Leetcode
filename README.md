@@ -8,6 +8,7 @@ My Leetcode Submissions
 | ------- |
 | [0001-two-sum](https://github.com/Sujal71005/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Sujal71005/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sujal71005/Leetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,9 @@ My Leetcode Submissions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sujal71005/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sujal71005/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sujal71005/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
